@@ -29,9 +29,9 @@ Scan QR → Pay PKR 1,500 deposit → Take power bank → Use anywhere → Retur
 
 ---
 
-## 👥 Team
+##  Team
 
-9 students from PAF-IAST, Haripur 
+ from PAF-IAST, Haripur 
 
 ---
 
